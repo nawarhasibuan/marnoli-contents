@@ -1,0 +1,8 @@
+# folder besar
+node_modules
+.obsidian
+
+# folder pendukung
+bin
+assets
+template
