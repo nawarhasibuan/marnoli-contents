@@ -2,7 +2,7 @@
 tags: []
 options: 
 answer: 
-difficulties: 
+difficulty: 
 point: 
 max_point: 
 source: 

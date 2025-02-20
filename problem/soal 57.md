@@ -1,7 +1,12 @@
 ---
-tags: [kota, sma, recursive, array, sorting]
-options: 
-answer: 1 3 5 7 8 9 10 18 29 100
+tags:
+  - kota
+  - sma
+  - recursive
+  - array
+  - sorting
+options: []
+answer: 135789101829100
 difficulties:
   - medium
 point: 7
