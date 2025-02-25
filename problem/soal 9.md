@@ -1,7 +1,10 @@
 ---
-tags: [osn, smp, filling_slot]
+tags:
+  - osn
+  - smp
+  - filling_slot
 options: 
-answer: 
+answer: 6
 difficulties:
   - medium
 point: 

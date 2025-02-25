@@ -1,7 +1,9 @@
 ---
-tags: [filling_slot, kota]
+tags:
+  - filling_slot
+  - kota
 options: 
-answer: 
+answer: 90000
 difficulties:
   - easy
 point: 2

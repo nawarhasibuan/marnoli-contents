@@ -1,7 +1,13 @@
 ---
-tags: [osn, kota, smp, filling_slot, permutation, combination]
+tags:
+  - osn
+  - kota
+  - smp
+  - filling_slot
+  - permutation
+  - combination
 options: 
-answer: 
+answer: 17280
 difficulties:
   - medium
 point: 7

@@ -1,7 +1,11 @@
 ---
-tags: [kota, sma, osn, conditional]
+tags:
+  - kota
+  - sma
+  - osn
+  - conditional
 options: 
-answer: 
+answer: 100
 difficulties:
   - medium
 point: 7
